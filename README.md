@@ -7,7 +7,7 @@
 ![](Charts_and_Graphs/Outcomes_From_Launch_Date.png)
 ---
 # Category Chart #
-![](Charts_and_Graphs/Category_Chart)
+![](Charts_and_Graphs/Category_Chart.png)
 ---
 # Subcategory Chart #
-![](Charts_and_Graphs/Subcategory_Chart)
+![](Charts_and_Graphs/Subcategory_Chart.png)
