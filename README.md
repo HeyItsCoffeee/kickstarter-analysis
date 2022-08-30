@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns. #
-### OBJECTIVE ###
-* Provide an anaylsis breakdown of a dataset of kickstarter campaigns to best understand how to create a successful campaign for Louise's new play.
+### Analysis ###
+* Provides an anaylsis breakdown of a dataset of kickstarter campaigns to best understand how to create a successful campaign for Louise's new play.
 ---
 
