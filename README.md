@@ -5,3 +5,9 @@
 ---
 # Theater Outcomes Based On Launch Date #
 ![](Charts_and_Graphs/Outcomes_From_Launch_Date.png)
+---
+# Category Chart #
+![](Charts_and_Graphs/Category_Chart)
+---
+# Subcategory Chart #
+![](Charts_and_Graphs/Subcategory_Chart)
