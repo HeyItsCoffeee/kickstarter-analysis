@@ -24,3 +24,10 @@ What you will be seeing in this portion of the report will be some charts and gr
 To keep this short and sweet, data can always be broken down even further than what we see here. We could have looked further into why we see a greater chance of success for theatre during the spring and summer; and where are the failures coming from? But that's not what was asked of us. As an individual who is passionate about his craft, sometimes we need to take a step back and remind ourselves what exactly is it that we're delievering here.  
 
 ## Results
+Two conclusions on the Outcomes based on Launch Date - 1st. If you're going to get into theatre, it's best to start your campaign between March and August. 2nd. Avoid October all together if you dont want to have a "Great" chance of failure.
+
+One conclusion on the Outcomes based on Goals - Set your goal no higher than $4999 if you want have a chance in being apart of the "successful" category here.
+
+Some limitations of this dataset can be that it doesn't offer specifics into the country. For example - States, Cities, Counties, etc.
+
+Other tables that can be included are Successful/Failed Theatres during spring/summer. 
