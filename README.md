@@ -14,7 +14,7 @@ What you will be seeing in this portion of the report will be some charts and gr
 
 ![](Charts_and_Graphs/Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based of Goals
+### Analysis of Outcomes Based on Goals
 ![](Charts_and_Graphs/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
