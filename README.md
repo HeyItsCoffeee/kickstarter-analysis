@@ -15,6 +15,9 @@ What you will be seeing in this portion of the report will be some charts and gr
 ![](Charts_and_Graphs/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+ Our next chart that you're looking at shows us the percentage of canceled, failed, and successful theatres based on what they set their dollar goal amount to.
+ The highest chance for success comes in at just under $1000. 76% of campaigns that set their goal to be under $1000 succeeded. As we look further down into the graph you can start to see that once we start setting our goal amount above $5000 and beyond we're dealing with coin tosses; all the way down to a snowball's chance in hell.
+
 ![](Charts_and_Graphs/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
