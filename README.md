@@ -1,13 +1,22 @@
-# An Analysis of Kickstarter Campaigns. #
-### Analysis ###
-* Provides an anaylsis breakdown of a dataset of kickstarter campaigns to best understand key components in a successful campaign for Louise's new play. I.E. - Money value 
+# Kickstarting with Excel
+
+## Overview if Project
+Provides an anaylsis breakdown of a dataset of kickstarter campaigns to best understand key components in a successful campaign for Louise's new play. I.E. - Money value 
 (goal amount), time of year, etc.
----
-# Theater Outcomes Based On Launch Date #
+
+## Purpose
+
+## Analysis and Challeneges
+
+### Analysis of Outcomes Based on Launch Date
 ![](Charts_and_Graphs/Outcomes_From_Launch_Date.png)
----
-# Category Chart #
+
+### Analysis of Outcomes Based of Goals
 ![](Charts_and_Graphs/Category_Chart.png)
----
-# Subcategory Chart #
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+
 ![](Charts_and_Graphs/Subcategory_Chart.png)
