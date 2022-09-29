@@ -10,14 +10,10 @@ Louise would like to know how different campaigns fared in relation to their lau
 What you will be seeing in this portion of the report will be some charts and graphs that we have created for you. The charts and graphs you see will help you better understand the information we are trying to convey. We also thought it would be nice to show you guys some of the challenges and difficulties we encountered during this little project so you guys can see a glimpse of what all goes on underneath the hood of making this possible.
 
 ### Analysis of Outcomes Based on Launch Date
-![](Charts_and_Graphs/Outcomes_From_Launch_Date.png)
+![](Charts_and_Graphs/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based of Goals
-![](Charts_and_Graphs/Category_Chart.png)
 
 ### Challenges and Difficulties Encountered
 
 ## Results
-
-
-![](Charts_and_Graphs/Subcategory_Chart.png)
