@@ -25,9 +25,7 @@ To keep this short and sweet, data can always be broken down even further than w
 
 ## Results
 Two conclusions on the Outcomes based on Launch Date - 
-1st. If you're going to get into theatre, it's best to start your campaign between March and August. 
-
-2nd. Avoid October all together if you dont want to have an increased chance of failure.
+First, if you're going to get into theatre, it's best to start your campaign between March and August. Second, avoid October all together if you dont want to have an increased chance of failure.
 
 One conclusion on the Outcomes based on Goals - Set your goal no higher than $4999 if you want have a chance in being part of the "successful" category here.
 
